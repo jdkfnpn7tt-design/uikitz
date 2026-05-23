@@ -56,3 +56,4 @@ public extension NSObject {
         return classString as String
     }
 }
+dir
